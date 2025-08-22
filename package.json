@@ -5,7 +5,7 @@
   "main": "main.js",
   "author": "Timothy Reed",
   "license": "MIT",
-  "homepage": "https://github.com/yourusername/warpspeed-monitor",
+  "homepage": "https://github.com/yourusername/warpspeedmonitor",
   "scripts": {
     "start": "electron .",
     "dev": "electron . --dev",

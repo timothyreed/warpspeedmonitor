@@ -1,6 +1,23 @@
-# WarpSpeed Monitor
+# ⚡ WarpSpeed Monitor
 
-Professional AI Performance Monitoring Dashboard packaged as a desktop application.
+> **Professional AI Performance Monitoring Dashboard**  
+> Cross-platform desktop application for real-time system and AI metrics monitoring
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Build](https://github.com/yourusername/warpspeedmonitor/workflows/Build%20and%20Release/badge.svg)
+
+## 📥 Download
+
+**[📦 Download Latest Release](https://github.com/yourusername/warpspeedmonitor/releases/latest)**
+
+- **Windows**: `.exe` installer or portable `.zip`
+- **macOS**: `.dmg` installer or portable `.zip` 
+- **Linux**: `.AppImage`, `.deb`, or `.rpm` packages
+
+## 🖼️ Screenshots
+
+*Add screenshots of your dashboard here*
 
 ## Features
 
