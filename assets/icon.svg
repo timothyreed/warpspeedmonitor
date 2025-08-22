@@ -1,0 +1,13 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1e1f23"/>
+  <g fill="#ffffff">
+    <!-- Lightning bolt -->
+    <path d="M200 80 L320 80 L280 200 L360 200 L200 400 L240 280 L160 280 Z"/>
+    <!-- Monitor lines -->
+    <rect x="80" y="420" width="352" height="8"/>
+    <rect x="120" y="440" width="272" height="8"/>
+    <rect x="160" y="460" width="192" height="8"/>
+  </g>
+  <!-- Text -->
+  <text x="256" y="500" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">WARPSPEED</text>
+</svg>
