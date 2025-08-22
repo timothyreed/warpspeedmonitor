@@ -5,11 +5,11 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
-![Build](https://github.com/yourusername/warpspeedmonitor/workflows/Build%20and%20Release/badge.svg)
+![Build](https://github.com/timothyreed/warpspeedmonitor/workflows/Build%20and%20Release/badge.svg)
 
 ## 📥 Download
 
-**[📦 Download Latest Release](https://github.com/yourusername/warpspeedmonitor/releases/latest)**
+**[📦 Download Latest Release](https://github.com/timothyreed/warpspeedmonitor/releases/latest)**
 
 - **Windows**: `.exe` installer or portable `.zip`
 - **macOS**: `.dmg` installer or portable `.zip` 
