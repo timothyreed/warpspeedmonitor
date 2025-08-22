@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "WarpSpeed AI Performance Monitor - Professional system monitoring dashboard",
   "main": "main.js",
-  "author": "Timothy Reed",
+  "author": {
+    "name": "Timothy Reed",
+    "email": "tim@timothyreed.net"
+  },
   "license": "MIT",
   "homepage": "https://github.com/timothyreed/warpspeedmonitor",
   "scripts": {
